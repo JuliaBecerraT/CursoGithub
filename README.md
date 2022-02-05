@@ -1,5 +1,5 @@
-# CursoGithub
-* Mi primer repositorio en github
+# CursoGithub rama secundaria
+* Mi primer repositorio en github 
 
 **Autor** : JCBT
 
